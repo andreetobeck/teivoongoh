@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aijeephaez.alizeefreudenthal.com/sitemap.xml
